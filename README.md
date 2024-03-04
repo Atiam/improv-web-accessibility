@@ -15,7 +15,9 @@ The code has been validated using the Markup Validation Service (https://validat
 ## Visuals
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
-
+## Access to the website
+To access the website, click on this link:
+https://atiam.github.io/improv-web-accessibility/
 
 
 ## Support

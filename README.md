@@ -17,7 +17,7 @@ Depending on what you are making, it can be a good idea to include screenshots o
 
 ## Access to the website
 To access the website, click on this link:
-https://atiam.github.io/improv-web-accessibility/
+https://atiam.github.io/improv-web-accessibility_Arnaud-Tiam/
 
 
 ## Support
